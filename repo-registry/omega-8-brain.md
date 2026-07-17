@@ -7,7 +7,7 @@
 - brain_tier: company
 - primary_job: Omega8 Brain for all business interests
 - status: active
-- remote: git@github.com:dldycus/omega-8-brain
+- remote: git@github.com:dldycus/omega-8-brain.git
 - added: 2026-07-17
 
 ## Notes
