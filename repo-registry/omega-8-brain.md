@@ -1,4 +1,4 @@
-# Repo: <slug>
+# Repo: omega-8-brain
 
 - repo: omega-8-brain
 - path: internal/omega-8-brain

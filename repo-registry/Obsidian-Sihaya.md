@@ -1,6 +1,6 @@
-# Repo: <slug>
+# Repo: Obsidian-Sihaya
 
-- repo: Obsidian-Sihaya (must match the directory name)
+- repo: Obsidian-Sihaya
 - path: internal/Obsidian-Sihaya
 - ownership: internal
 - repo_kind: brain

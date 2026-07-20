@@ -1,4 +1,4 @@
-# Repo: <slug>
+# Repo: tenable-ddycus
 
 - repo: tenable-ddycus
 - path: external/tenable-ddycus
@@ -7,7 +7,7 @@
 - brain_tier: individual
 - primary_job: Brain for Tenable DDycus
 - status: active
-- remote: git@github.com/dldycus/tenable-ddycus.git
+- remote: git@github.com:dldycus/tenable-ddycus.git
 - added: 2026-07-17
 
 ## Notes

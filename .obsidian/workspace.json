@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADD-A-BRAIN.md",
+                "file": "internal/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADD-A-BRAIN"
+              "title": "README"
             }
           }
         ]
@@ -188,8 +188,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "766ebd8190cee5a2",
+  "active": "17540182c246440d",
   "lastOpenFiles": [
+    "repo-registry/_example-company-brain.md",
+    "repo-registry/_template.md",
+    "repo-registry/Obsidian-Sihaya.md",
+    "repo-registry/omega-8-brain.md",
+    "repo-registry/README.md",
+    "repo-registry/tenable-ddycus.md",
+    "ADD-A-BRAIN.md",
     "internal/omega-8-brain/sessions/closed/2026-07-17-getting-started-walkthrough.md",
     "internal/omega-8-brain/sessions/reviews/2026-07-17-getting-started-walkthrough-closeout.md",
     "internal/omega-8-brain/knowledge/emberline-studio/concepts/wholesale-channel.md",
@@ -197,7 +204,6 @@
     "internal/omega-8-brain/sessions/logs/2026-07-17-getting-started-walkthrough.log.md",
     "internal/omega-8-brain/sessions/active/2026-07-17-getting-started-walkthrough.md",
     "CLAUDE.md",
-    "AGENTS.md",
-    "ADD-A-BRAIN.md"
+    "AGENTS.md"
   ]
 }
