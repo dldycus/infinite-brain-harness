@@ -1,3 +1,9 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "cyber-theme",
+    "extended-colorschemes",
+    "hideproperties"
+  ]
 }
