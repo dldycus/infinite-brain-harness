@@ -32,3 +32,9 @@ external/*
 # OS noise.
 .DS_Store
 Thumbs.db
+
+# Obsidian workspace state - conflicts constantly between devices
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/vault-stats.json
