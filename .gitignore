@@ -33,8 +33,6 @@ external/*
 .DS_Store
 Thumbs.db
 
-# Obsidian workspace state - conflicts constantly between devices
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-.obsidian/vault-stats.json
+# Obsidian vault config, if the root is opened as its own vault. Runtime/human view state,
+# per-machine, never a source of truth (also conflicts constantly between devices).
+.obsidian/
